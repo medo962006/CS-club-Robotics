@@ -1,0 +1,50 @@
+{
+    "introduction": [{
+      "ImageLink": "https://imgur.com/9RGEaQe",
+      "SessionName": "Introduction to Robotics",
+      "SessionDesc": "Why And How You Will Learn Robotics",
+      "SessionLink": "https://zinc-vegetarian-02a.notion.site/Introduction-59380ac004624137a559388fc6d79502?pvs=4"
+    }],
+    "session_2": [{
+      "ImageLink": "https://imgur.com/GUDoT3I",
+      "SessionName": "Introduction to microcontrollers (Controller)",
+      "SessionDesc": "Learn the secrets behind microcontrollers and grasp the meaning of important robotics concepts.",
+      "SessionLink": "https://zinc-vegetarian-02a.notion.site/Session-1-Control-92c7edccb1dd42deaf44f742637cefae?pvs=4"
+    }],
+    "session_3": [{
+      "ImageLink": "https://imgur.com/1LVEZd8",
+      "SessionName": "circuit elements (Controller)",
+      "SessionDesc": "Learn basic concepts of electronic circuits, and how to differentiate between common circuit elements, such as transistors and capacitors.",
+      "SessionLink": "https://zinc-vegetarian-02a.notion.site/Session-2-Control-3a22a438ccbe408fba55980882ef6707?pvs=4"
+    }],
+    "session_4": [{
+      "ImageLink": "https://imgur.com/MUqwYSb",
+      "SessionName": "Types Of Sensors and their usages",
+      "SessionDesc": "Learn the difference between important types of sensors, and how to use them in real-life projects",
+      "SessionLink": "https://zinc-vegetarian-02a.notion.site/Session-3-Control-0b7423af090845679d77f8c7bdbc007d?pvs=4"
+    }],
+    "session_5": [{
+      "ImageLink": "https://imgur.com/cxyW2nd",
+      "SessionName": "Mechanical components and their usages (Mechanical)",
+      "SessionDesc": "Learn the difference between unique gears and wheels and how to use them to their full potential!",
+      "SessionLink": "https://zinc-vegetarian-02a.notion.site/Session-1-Mechanical-8f498d63bdc14bd882ee624adf2928e8?pvs=4"
+    }],
+    "session_6": [{
+      "ImageLink": "https://imgur.com/Zp3iSOr",
+      "SessionName": "Introduction to Solid Works and 3D Modeling",
+      "SessionDesc": "Get to know the basics of 3D modeling and its practical usage in Robotics",
+      "SessionLink": "https://zinc-vegetarian-02a.notion.site/Session-2-Mechanical-f5513baf27804a619747c56f17cdfff1?pvs=4"
+    }],
+    "session_7": [{
+      "ImageLink": "https://imgur.com/8ifwQwe",
+      "SessionName": "Planning your projects using 2D drawing with Solid Works",
+      "SessionDesc": "Learn how to plan your projects ahead using Solid Works and its 2D drawing features",
+      "SessionLink": "https://zinc-vegetarian-02a.notion.site/Session-3-Mechanical-142625e4fb0d4a4e9caf23c1ae6170fa?pvs=4"
+    }],
+    "session_8": [{
+      "ImageLink": "https://imgur.com/A1EeP1y",
+      "SessionName": "3D Assembly and motion study using Solid Works",
+      "SessionDesc": "Get to know the final step in modeling a 3D project on Solid Works!",
+      "SessionLink": "https://zinc-vegetarian-02a.notion.site/Session-4-Mechanical-df0002066ff241d28331e699039e4fc2?pvs=4"
+    }]
+  }
